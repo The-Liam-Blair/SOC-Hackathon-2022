@@ -1,0 +1,131 @@
+﻿@using LetItBurn.Client.Shared.Upgrades
+
+<div class="row mt-3 justify-content-between">
+    <div class="col border">
+        <h3>Current Income : @getCurrentIncome()</h3>
+    </div>
+    <div class="col border">
+        <h3>CO2 Emissions Reduced (Compared to Using Coal) : @CO2Saved</h3>
+    </div>
+</div>
+
+<div id="earth-div">
+    <img src="../assets/earth.png" alt="earthButton" width="500" height="600" class="img-fluid" @onclick="addTree">
+</div>
+
+<div style="margin: 0 auto 0 auto; width: fit-content;">
+    <h2>Store</h2>
+</div>
+
+<div class="row justify-content-center">
+    <div class="card m-1" style="width: 18rem;">
+        <img src="../assets/forest.png" class="card-img-top" alt="..." @onclick="AddAutoPlanter">
+        <div class="card-body">
+            <p class="card-text"><h3>Tree</h3>According to the Arbor Day Foundation, in one year a mature tree will absorb more than 48 pounds of carbon dioxide from the atmosphere and release oxygen in exchange.</p>
+        </div>
+    </div>
+    <div class="card m-1" style="width: 18rem;">
+      <img src="../assets/windTurbine.png" class="card-img-top" alt="..." @onclick="AddWindTurbine">
+      <div class="card-body">
+            <p class="card-text"><h3>Wind Turbine</h3>Wind energy produces around 11 grams of CO2 per kilowatt-hour (g CO2/kWh) of electricity generated, compared with about 980 g CO2/kWh for coal and roughly 465 g CO2/kWh for natural gas. That makes coal’s carbon footprint almost 90 times larger!</p>
+      </div>
+    </div>
+    <div class="card m-1" style="width: 18rem;">
+        <img src="../assets/ev.PNG" class="card-img-top" alt="...">
+        <div class="card-body">
+            <p class="card-text"><h3>EV</h3>EVs produce only 60g of CO2/km. Over a car’s lifetime this equalizes 50% less CO2 being released into the atmosphere. In countries like France and Sweden, places where renewable energy is used the most, EVs can produce up to 70% less CO2 than NGVs.</p>
+        </div>
+    </div>
+</div>
+<!-- <UpgradeButton></UpgradeButton>
+<StatsButton></StatsButton> -->
+
+
+
+@code {
+
+    // List of auto planters purchased
+    public static List<AutoPlanter> AutoPlanters = new List<AutoPlanter>();
+    // List of wind turbines
+    public static List<WindTurbine> Turbines = new List<WindTurbine>();
+
+
+    int TreeQuantity;
+    float CO2Saved = 0.0f;
+
+    double modifier = 1.0;
+
+    public void addTree()
+    {
+        TreeQuantity += 1;
+    }
+
+    public double getCurrentIncome()
+    {
+        return TreeQuantity * modifier;
+    }
+
+    private void AddAutoPlanter()
+    {
+        AutoPlanters.Add(new AutoPlanter());
+    }
+
+    // Purchase a wind turbine that primarily saves on CO2 emissions.
+    private void AddWindTurbine()
+    {
+        Turbines.Add(new WindTurbine());
+    }
+
+
+
+    private System.Threading.Timer? timer;
+    protected override async Task OnInitializedAsync()
+    {
+        // For every frame/every 17 milliseconds...
+        timer = new System.Threading.Timer(async =>
+        {
+
+            // For each auto planter the user has purchased...
+            foreach (AutoPlanter p in AutoPlanters)
+            {
+                // Reduce the delay timer for a tree being automatically planted by 1 frame. 60 frame wait = 1 second per tree.
+                p.plantDelay--;
+                if (p.plantDelay <= 0)
+                {
+                    TreeQuantity += 1;
+                    p.plantDelay = 60;
+                }
+            }
+
+            CO2Saved += (float)AddSavedCO2();
+
+            // Re-render component after game logic is carried out.
+            StateHasChanged();
+        }, new System.Threading.AutoResetEvent(false), 17, 17); // Re-run the timer after 17 milliseconds (17ms is used as 16.7ms delay is 60 fps, generally close enough)
+    }
+
+
+    private float AddSavedCO2()
+    {
+        // (Dummy values, but shows a method of retrieving the total emissions saved per frame).
+        return Turbines.Count / 5.0f;
+    }
+
+
+    // Class definition of an auto planter
+    public class AutoPlanter
+    {
+        // Each planter has it's own timer before planting a tree. This allows the counter to render each planted tree individually, so the total trees planted
+        // value increments rapidly by 1 for visual appeal.
+        public float plantDelay { get; set; } = 60;
+    }
+
+    // Class definition of a wind turbine
+    public class WindTurbine
+    {
+        // Each planter has it's own timer before planting a tree. This allows the counter to render each planted tree individually, so the total trees planted
+        // value increments rapidly by 1 for visual appeal.
+        public float CO2SaveDelay { get; set; } = 60;
+    }
+
+}

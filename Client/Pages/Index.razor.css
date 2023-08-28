@@ -1,0 +1,33 @@
+h1 {
+    color: #4cd4e4;
+    display: block;
+    font-size: min(7vh, 7vw);
+    text-align: center;
+    width: 100%;
+}
+
+ul {
+    padding-left: 0px;
+    text-align: center;
+    width: 100%;
+}
+
+li {
+    color: #4cd4e4;
+    font-size: min(4vh, 4vw);
+    list-style-type: none;
+    padding-bottom: min(1.5vh, 1.5vw);
+}
+
+li:hover {
+    color: white;
+}
+
+nav {
+    background-color: #7ed0e0;
+}
+
+    nav a {
+        text-decoration: none;
+        color: white;
+    }

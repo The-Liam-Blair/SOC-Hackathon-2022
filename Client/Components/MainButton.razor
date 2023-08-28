@@ -1,0 +1,18 @@
+﻿@using LetItBurn.Client.Shared
+@inject AppState AppState
+
+<div id="earth-div">
+    <img src="../assets/earth.png" alt="earthButton" width="400" height="400" class="img-fluid" @onclick="addTree">
+</div>
+
+
+<p>@AppState.Tree.Quantity</p>
+
+@code {
+
+    public void addTree()
+    {
+        AppState.Tree.Quantity += 1;
+    }
+    
+}

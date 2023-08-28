@@ -1,0 +1,12 @@
+﻿#earth-div {
+    width: fit-content;
+    margin: 3rem auto 3rem auto;
+}
+
+img:active {
+    filter: invert(15%);
+}
+
+card {
+    background-color: #9DD495;
+}
