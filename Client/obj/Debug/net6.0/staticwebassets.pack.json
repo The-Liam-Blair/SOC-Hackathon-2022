@@ -1,0 +1,133 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\obj\\Debug\\net6.0\\build-gz\\+Caza55z.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\LetItBurn.Client.styles.css",
+      "PackagePath": "staticwebassets\\LetItBurn.Client.styles.css"
+    },
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\wwwroot\\assets\\SolarPanel.jpg",
+      "PackagePath": "staticwebassets\\assets\\SolarPanel.jpg"
+    },
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\wwwroot\\assets\\earth.png",
+      "PackagePath": "staticwebassets\\assets\\earth.png"
+    },
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\wwwroot\\assets\\ev.PNG",
+      "PackagePath": "staticwebassets\\assets\\ev.PNG"
+    },
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\wwwroot\\assets\\forest.png",
+      "PackagePath": "staticwebassets\\assets\\forest.png"
+    },
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\wwwroot\\assets\\onesize.TTF",
+      "PackagePath": "staticwebassets\\assets\\onesize.TTF"
+    },
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\wwwroot\\assets\\windTurbine.png",
+      "PackagePath": "staticwebassets\\assets\\windTurbine.png"
+    },
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\wwwroot\\service-worker.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "D:\\Hackathon2022\\SOChackathon2022\\Client\\wwwroot\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.published.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.LetItBurn.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.LetItBurn.Client.props",
+      "PackagePath": "build\\LetItBurn.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.LetItBurn.Client.props",
+      "PackagePath": "buildMultiTargeting\\LetItBurn.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.LetItBurn.Client.props",
+      "PackagePath": "buildTransitive\\LetItBurn.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = LetItBurn.Client
+build_property.RootNamespace = LetItBurn.Client
+build_property.ProjectDir = C:\Other\2022 Hackathon\SOChackathon2022\Client\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Other\2022 Hackathon\SOChackathon2022\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Other/2022 Hackathon/SOChackathon2022/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Other/2022 Hackathon/SOChackathon2022/Client/Components/CurrentIncome.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDdXJyZW50SW5jb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Other/2022 Hackathon/SOChackathon2022/Client/Components/GameMoney.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xHYW1lTW9uZXkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Other/2022 Hackathon/SOChackathon2022/Client/Components/StatsButton.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTdGF0c0J1dHRvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Other/2022 Hackathon/SOChackathon2022/Client/Components/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTdXJ2ZXlQcm9tcHQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Other/2022 Hackathon/SOChackathon2022/Client/Components/UpgradeButton.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xVcGdyYWRlQnV0dG9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Other/2022 Hackathon/SOChackathon2022/Client/Pages/LeaderBoard.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhZGVyQm9hcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Other/2022 Hackathon/SOChackathon2022/Client/Pages/Settings.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Other/2022 Hackathon/SOChackathon2022/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Other/2022 Hackathon/SOChackathon2022/Client/Components/GameView.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xHYW1lVmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-98ecvrgk37
+
+[C:/Other/2022 Hackathon/SOChackathon2022/Client/Components/MainButton.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNYWluQnV0dG9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-jjyy2wmono
+
+[C:/Other/2022 Hackathon/SOChackathon2022/Client/Components/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNYWluTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-0vqy54o621
+
+[C:/Other/2022 Hackathon/SOChackathon2022/Client/Components/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xOYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-fobxcqnc88
+
+[C:/Other/2022 Hackathon/SOChackathon2022/Client/Pages/About.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-b8j2vurwk8
+
+[C:/Other/2022 Hackathon/SOChackathon2022/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-0ibgapu2vt
+
+[C:/Other/2022 Hackathon/SOChackathon2022/Client/Pages/MainGame.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFpbkdhbWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-xbcylfecav

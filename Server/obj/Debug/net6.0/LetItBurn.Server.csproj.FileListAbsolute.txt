@@ -1,0 +1,76 @@
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\bin\Debug\net6.0\LetItBurn.Client.staticwebassets.runtime.json
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\bin\Debug\net6.0\LetItBurn.Server.staticwebassets.runtime.json
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\bin\Debug\net6.0\LetItBurn.Server.exe
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\bin\Debug\net6.0\LetItBurn.Server.deps.json
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\bin\Debug\net6.0\LetItBurn.Server.runtimeconfig.json
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\bin\Debug\net6.0\LetItBurn.Server.dll
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\bin\Debug\net6.0\LetItBurn.Server.pdb
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\bin\Debug\net6.0\Blazored.LocalStorage.dll
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\bin\Debug\net6.0\LetItBurn.Client.dll
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\bin\Debug\net6.0\LetItBurn.Client.pdb
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\obj\Debug\net6.0\LetItBurn.Server.csproj.AssemblyReference.cache
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\obj\Debug\net6.0\LetItBurn.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\obj\Debug\net6.0\LetItBurn.Server.AssemblyInfoInputs.cache
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\obj\Debug\net6.0\LetItBurn.Server.AssemblyInfo.cs
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\obj\Debug\net6.0\LetItBurn.Server.csproj.CoreCompileInputs.cache
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\obj\Debug\net6.0\LetItBurn.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\obj\Debug\net6.0\LetItBurn.Server.RazorAssemblyInfo.cache
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\obj\Debug\net6.0\LetItBurn.Server.RazorAssemblyInfo.cs
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\obj\Debug\net6.0\scopedcss\bundle\LetItBurn.Server.styles.css
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\obj\Debug\net6.0\LetItBurn.Server.csproj.CopyComplete
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\obj\Debug\net6.0\LetItBurn.Server.dll
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\obj\Debug\net6.0\refint\LetItBurn.Server.dll
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\obj\Debug\net6.0\LetItBurn.Server.pdb
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\obj\Debug\net6.0\LetItBurn.Server.genruntimeconfig.cache
+C:\Users\steph\Source\Repos\BeLeever\SOChackathon2022\Server\obj\Debug\net6.0\ref\LetItBurn.Server.dll
+C:\Other\2022 Hackathon\SOChackathon2022\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Other\2022 Hackathon\SOChackathon2022\Server\bin\Debug\net6.0\appsettings.json
+C:\Other\2022 Hackathon\SOChackathon2022\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Other\2022 Hackathon\SOChackathon2022\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Other\2022 Hackathon\SOChackathon2022\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Other\2022 Hackathon\SOChackathon2022\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Other\2022 Hackathon\SOChackathon2022\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Other\2022 Hackathon\SOChackathon2022\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Other\2022 Hackathon\SOChackathon2022\Server\bin\Debug\net6.0\LetItBurn.Client.staticwebassets.runtime.json
+C:\Other\2022 Hackathon\SOChackathon2022\Server\bin\Debug\net6.0\LetItBurn.Server.staticwebassets.runtime.json
+C:\Other\2022 Hackathon\SOChackathon2022\Server\bin\Debug\net6.0\LetItBurn.Server.exe
+C:\Other\2022 Hackathon\SOChackathon2022\Server\bin\Debug\net6.0\LetItBurn.Server.deps.json
+C:\Other\2022 Hackathon\SOChackathon2022\Server\bin\Debug\net6.0\LetItBurn.Server.runtimeconfig.json
+C:\Other\2022 Hackathon\SOChackathon2022\Server\bin\Debug\net6.0\LetItBurn.Server.dll
+C:\Other\2022 Hackathon\SOChackathon2022\Server\bin\Debug\net6.0\LetItBurn.Server.pdb
+C:\Other\2022 Hackathon\SOChackathon2022\Server\bin\Debug\net6.0\Blazored.LocalStorage.dll
+C:\Other\2022 Hackathon\SOChackathon2022\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Other\2022 Hackathon\SOChackathon2022\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Other\2022 Hackathon\SOChackathon2022\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Other\2022 Hackathon\SOChackathon2022\Server\bin\Debug\net6.0\LetItBurn.Client.dll
+C:\Other\2022 Hackathon\SOChackathon2022\Server\bin\Debug\net6.0\LetItBurn.Client.pdb
+C:\Other\2022 Hackathon\SOChackathon2022\Server\obj\Debug\net6.0\LetItBurn.Server.csproj.AssemblyReference.cache
+C:\Other\2022 Hackathon\SOChackathon2022\Server\obj\Debug\net6.0\LetItBurn.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Other\2022 Hackathon\SOChackathon2022\Server\obj\Debug\net6.0\LetItBurn.Server.AssemblyInfoInputs.cache
+C:\Other\2022 Hackathon\SOChackathon2022\Server\obj\Debug\net6.0\LetItBurn.Server.AssemblyInfo.cs
+C:\Other\2022 Hackathon\SOChackathon2022\Server\obj\Debug\net6.0\LetItBurn.Server.csproj.CoreCompileInputs.cache
+C:\Other\2022 Hackathon\SOChackathon2022\Server\obj\Debug\net6.0\LetItBurn.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Other\2022 Hackathon\SOChackathon2022\Server\obj\Debug\net6.0\LetItBurn.Server.RazorAssemblyInfo.cache
+C:\Other\2022 Hackathon\SOChackathon2022\Server\obj\Debug\net6.0\LetItBurn.Server.RazorAssemblyInfo.cs
+C:\Other\2022 Hackathon\SOChackathon2022\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Other\2022 Hackathon\SOChackathon2022\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Other\2022 Hackathon\SOChackathon2022\Server\obj\Debug\net6.0\scopedcss\bundle\LetItBurn.Server.styles.css
+C:\Other\2022 Hackathon\SOChackathon2022\Server\obj\Debug\net6.0\LetItBurn.Server.csproj.CopyComplete
+C:\Other\2022 Hackathon\SOChackathon2022\Server\obj\Debug\net6.0\LetItBurn.Server.dll
+C:\Other\2022 Hackathon\SOChackathon2022\Server\obj\Debug\net6.0\refint\LetItBurn.Server.dll
+C:\Other\2022 Hackathon\SOChackathon2022\Server\obj\Debug\net6.0\LetItBurn.Server.pdb
+C:\Other\2022 Hackathon\SOChackathon2022\Server\obj\Debug\net6.0\LetItBurn.Server.genruntimeconfig.cache
+C:\Other\2022 Hackathon\SOChackathon2022\Server\obj\Debug\net6.0\ref\LetItBurn.Server.dll

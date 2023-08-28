@@ -1,0 +1,33 @@
+h1[b-0ibgapu2vt] {
+    color: #4cd4e4;
+    display: block;
+    font-size: min(7vh, 7vw);
+    text-align: center;
+    width: 100%;
+}
+
+ul[b-0ibgapu2vt] {
+    padding-left: 0px;
+    text-align: center;
+    width: 100%;
+}
+
+li[b-0ibgapu2vt] {
+    color: #4cd4e4;
+    font-size: min(4vh, 4vw);
+    list-style-type: none;
+    padding-bottom: min(1.5vh, 1.5vw);
+}
+
+li:hover[b-0ibgapu2vt] {
+    color: white;
+}
+
+nav[b-0ibgapu2vt] {
+    background-color: #7ed0e0;
+}
+
+    nav a[b-0ibgapu2vt] {
+        text-decoration: none;
+        color: white;
+    }

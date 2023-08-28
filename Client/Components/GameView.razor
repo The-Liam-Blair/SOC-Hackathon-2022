@@ -2,10 +2,10 @@
 
 <div class="row mt-3 justify-content-between">
     <div class="col border">
-        <h3>Current Income : @getCurrentIncome()</h3>
+        <h3>Trees Planted : @getCurrentIncome()</h3>
     </div>
     <div class="col border">
-        <h3>CO2 Emissions Reduced (Compared to Using Coal) : @CO2Saved</h3>
+        <h3>CO2 Emissions Reduced (Compared to Using Coal) : @CO2Saved grams</h3>
     </div>
 </div>
 
@@ -19,19 +19,19 @@
 
 <div class="row justify-content-center">
     <div class="card m-1" style="width: 18rem;">
-        <img src="../assets/forest.png" class="card-img-top" alt="..." @onclick="AddAutoPlanter">
+        <img src="../assets/forest.png" class="card-img-top" alt="..." @onclick="AddAutoPlanter" width="200" height="150">
         <div class="card-body">
             <p class="card-text"><h3>Tree</h3>According to the Arbor Day Foundation, in one year a mature tree will absorb more than 48 pounds of carbon dioxide from the atmosphere and release oxygen in exchange.</p>
         </div>
     </div>
     <div class="card m-1" style="width: 18rem;">
-      <img src="../assets/windTurbine.png" class="card-img-top" alt="..." @onclick="AddWindTurbine">
+      <img src="../assets/windTurbine.png" class="card-img-top" alt="..." @onclick="AddWindTurbine" width="256" height="256">
       <div class="card-body">
             <p class="card-text"><h3>Wind Turbine</h3>Wind energy produces around 11 grams of CO2 per kilowatt-hour (g CO2/kWh) of electricity generated, compared with about 980 g CO2/kWh for coal and roughly 465 g CO2/kWh for natural gas. That makes coal’s carbon footprint almost 90 times larger!</p>
       </div>
     </div>
     <div class="card m-1" style="width: 18rem;">
-        <img src="../assets/ev.PNG" class="card-img-top" alt="...">
+        <img src="../assets/ev.PNG" class="card-img-top" alt="..." width="218" height="126">
         <div class="card-body">
             <p class="card-text"><h3>EV</h3>EVs produce only 60g of CO2/km. Over a car’s lifetime this equalizes 50% less CO2 being released into the atmosphere. In countries like France and Sweden, places where renewable energy is used the most, EVs can produce up to 70% less CO2 than NGVs.</p>
         </div>
@@ -108,7 +108,7 @@
     private float AddSavedCO2()
     {
         // (Dummy values, but shows a method of retrieving the total emissions saved per frame).
-        return Turbines.Count / 5.0f;
+        return 0.0044f * Turbines.Count;
     }
 
 
